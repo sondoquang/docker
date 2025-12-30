@@ -1,0 +1,28 @@
+1 ) Docker là gì ?
+  - Phục vụ build một lần và run anywhere
+  - Đóng gói ứng dụng
+  - DOCKER ENGINE: RUN TIME để build và chạy docker
+  - DOCKER IMAGE: chỉ đọc và tạo ra template sử dụng để tạo ra docker container ( Bảng vẽ )
+  - DOCKER CONTAINER: Tạo ra từ docker image ( ngôi nhà )
+  - DOCKER HUB: lưu trữ và chia sẽ DOCKER IMAGE
+
+  ==> DOCKER CONTAINERS chạy được trên các máy khác nhau
+
+2) TẠI SAO NÊN SỬ DỤNG DOCKER ?
+  - Xung đột version, các dependency, setup lâu
+
+  ==> Docker's Solution:
+        - Đóng gọi dứng dụng, các sử phụ thuộc ( code, runtime, tools)
+        - Nhẹ và nhanh trên nhiều môi trường máy tính khác nhau
+  ƯU ĐIỂM: ( Lợi ích )
+    + Consistency: chạy trên nhiều môi trường là như nhau
+    + Efficiency: Nhẹ
+    + Giảm thiểu xung đột
+    + Hoạt đông trên nhiều platform có hỗ trợ docker ( kể cả là window hay os)
+    + Đơn giản hóa việc mở rộng
+    + Hỗ trợ nâng cấp và quay lại các version một cách nhanh chóng
+
+3. SO SÁNH GIỮA VIRTUAL MANCHINES ( MÁY ẢO ) VS CONTAINERS ( DOCKER CONTAINERS )
+
+
+

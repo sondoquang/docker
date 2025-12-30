@@ -1,0 +1,23 @@
+1. Docker Engine:
+  - 
+2. Dockek CLI:
+  - Giao diện trên terminal để tương tác với docker
+3. Dicker Daemon ( dockerd )
+  - Các dịch vụ chạy nền quản lý các docker containers, images, networks, and volumes
+4. Docker Images:
+  - Mẫu chỉ có thể đọc để có thể tạo ra docker container
+5. Docker Container:
+  - Thực thể nhẹ được tạo ra từ docker Images
+6. Dockerfile:
+  - Hướng dẫn để chạy và build ra một image
+7. Docker Hub / Docker Registry:
+  - Lưu trữ và chia sẽ images
+8. Docker Compose:
+  - Tool để định nghĩa chạy ứng dụng thông qua file yaml file
+9. Docker Volumes:
+  - Phương pháp lưu trữ lâu dài cho container
+10. Docker networks
+  - Giúp quản lý giao tiếp giữa các docker với bên ngoài
+11. Docker Deskto UI
+  - Giao tiếp đồ họa cho bạn quản lý container, image, volume, network
+  - Tương tác với docker Daemon

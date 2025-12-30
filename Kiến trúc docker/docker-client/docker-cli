@@ -1,0 +1,5 @@
+Docker client ( Docker CLI )
+
+- Thường sẽ làm việc qua CLI ( Command line interface)
+- User sẽ nhập lệnh trên CLI
+- Các lệnh này sẽ được chuyển thành request ( yêu cầu ) và request này đượ gửi đến Docker deamon và đợi respose ( phản hồi từ Docker Deamon )
